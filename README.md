@@ -1,2 +1,2 @@
 # html_layout
-practice day 2
+https://emamulhassan.github.io/html_layout/
